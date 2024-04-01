@@ -23,7 +23,3 @@ Telegram бот, который поможет вам найти фильмы и
 Для поиска информации о фильме, используется неофициальное API кинопоиска [kinopoiskapiunofficial](https://kinopoiskapiunofficial.tech/)
 
 Для поиска используется googlesearch
-
-Пример работы:
-
-![пример](C:\Users\Ilya\Desktop\hos_korolevy.png)
